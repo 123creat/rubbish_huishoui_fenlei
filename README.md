@@ -164,3 +164,24 @@ weighted avg     0.9926    0.9926    0.9926      2968
 Accuracy: 0.9925876010781671
 
 ------------------------------------------------------------
+
+
+
+
+注：
+上传的压缩包是总的文件夹，下面是jupyter-note的运行步骤说明：
+首先打开你的note-book
+![image](https://github.com/123creat/rubbish_huishoui_fenlei/assets/116633051/56dd31dd-3503-49cf-b95a-e78f25055b39)
+然后找到你所下载包的路径（注意，jupyter note-book的下载路径和你所下载的包的位置应该在同一个盘，不然会找不到文件路径）
+![image](https://github.com/123creat/rubbish_huishoui_fenlei/assets/116633051/2312ad8a-d3d1-4515-a238-2aae4a2b8cb8)
+然后，点这个new,选python3或者notebook
+![image](https://github.com/123creat/rubbish_huishoui_fenlei/assets/116633051/e6d7cc41-6b1f-40ea-8cdf-70fc3ff6beae)
+先选择分词器的代码部分直接复制进去（注：写入文件需要时间，需要等待一会）
+![image](https://github.com/123creat/rubbish_huishoui_fenlei/assets/116633051/31488b88-2fa1-4a81-9176-b3d23e003d2d)
+写入成功后，再将test.py放进去
+![image](https://github.com/123creat/rubbish_huishoui_fenlei/assets/116633051/2d19aa7c-cc37-4e72-b1c8-620bba93f8b7)
+出现以下效果说明成功
+![image](https://github.com/123creat/rubbish_huishoui_fenlei/assets/116633051/543aa375-8f10-4165-9f18-f442987b3ee0)
+
+
+
